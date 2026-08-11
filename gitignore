@@ -1,0 +1,10 @@
+# clasp — ไฟล์เหล่านี้เก็บ Script ID / โทเค็นบัญชีของคุณ ห้ามอัปขึ้น GitHub เด็ดขาด
+.clasp.json
+.clasprc.json
+
+# Node (ถ้ามีการติดตั้ง clasp ในโปรเจกต์)
+node_modules/
+
+# ไฟล์ระบบทั่วไป
+.DS_Store
+Thumbs.db
